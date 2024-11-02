@@ -5,21 +5,30 @@ Wiki for the software and hardware running HWGC P&P machines
 
 ## Manufacturing and ordering Details
 These machines are produced by
-  * Beijing Huawei Guochuang Electronic Technology Co. Ltd.
+   
+  * Beijing Huawei Guochuang Electronic Technology Co. Ltd
   * Website: http://www.smthw.net/lang/en.
+  * https://www.facebook.com/jiangtao.liu.925/
+  * https://www.youtube.com/@beijinghwgcelectronictechn9075
+  * https://www.instagram.com/hwgc_smt_manufacture?igsh=MXZndDZ0M2E4MGRldg%3D%3D&utm_source=qr
   * Alibaba: https://zghwgc.en.alibaba.com
+  * https://www.tiktok.com/@hwgcpnp?is_from_webapp=1&sender_device=pc
   * Contact: Liu Jiangtao, MR.zhai
+  * Contact Number: 86-15931673319
+  * Contact E-mail: sjzwglw@163.com  hwgcsmt@gmail.com
 
 They are sold by many resellers, some of which rebrand the machine names
-  * Beijing Glichn 
-  * Beijing Huawei Silkroad Electronic Technology Co. Ltd
+  * Beijing Glichn
   * Wenzhou Yingxing Technology Co.,Ltd
   * Robodigg
 
 HWGC's naming tends to be "HW" for Huawei - Heads - Feeders
-  * HW-T8SG-80F 
+  * HW-T8-72/80F 
   * HW-T6-64F 
-  * HW-T4-50F
+  * HW-T4-44/50F
+  * HW-DU400-64F
+  * HW-DU800-96F
+  * HW-M8-102F
 
 Shipping
   * These systems are large and heavy; they usually ship by sea.  
@@ -125,14 +134,29 @@ http://www.catchbest.com/product/25-cn.html
 ### Pick and Place components
 
 
-#### Electric Feeders (Yamaha CL 8*4)
+#### Electric Feeders and pneumaitc feeder (Yamaha CL 8*4)
   * You need to explicitly ask for a machine upgrade to support electric feeders, as they default to pneumatic only.
   * With this upgrade, the machine supports the use of both electric and pneumatic feeders.
   * Electric feeders are required for reliable placement of very small components 
     * Use Pneumatic for 0603 and larger
     * Use Electric for 0603 and smaller
-  * https://offer.alibaba.com/cps/asciqch7?bm=cps&src=saf&productId=62431099223
-
+    
+One stop solution for SMT Machine
+WhatsApp:86-15931673319
+HWGC SMT Manufacturer directly supply 
+High speed / accuracy Pick and Place Machine
+1 years Warranty
+Faetures:
+✅High Accuracy
+✅High Speed
+✅Low Cost
+✅Easy Programming 
+✅Multi Accessible components: 0201/0402/0603/ BGA/ QFN/ LED....
+✅ 1 Years warranty 
+✅Free spare parts
+✅24 H Technical support
+For more information: WhatsApp/Wechat:86-15931673319
+Email: sjzwglw@163.com    hwgcsmt@gmail.com
 
 
 
